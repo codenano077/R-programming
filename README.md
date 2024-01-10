@@ -1,2 +1,2 @@
 # R-programming
-I started with the R-prof=gramming
+I started with the R-programming
